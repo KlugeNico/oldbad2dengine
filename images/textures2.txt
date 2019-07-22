@@ -1,0 +1,7 @@
+1=8x8, 2=16x16, 3=32x32, 4=64x64, 5=128x128, 6=256x256, 7=512x512, 8=1028x1028
+
+$0005-"images/test.png"
+$0006-"images/car.png"
+$0007-"images/ball.png"
+
+sfsdf
